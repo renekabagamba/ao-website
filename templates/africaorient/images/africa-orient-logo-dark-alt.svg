@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="74.71" viewBox="0 0 90 74.71">
+  <g id="Group_14" data-name="Group 14" transform="translate(-244.142 -298.63)">
+    <g id="Group_1" data-name="Group 1" transform="translate(254.729 298.63)">
+      <path id="Path_1" data-name="Path 1" d="M382.159,333.341a15.533,15.533,0,0,1-11.674,15.043,10.4,10.4,0,0,1-2.879.453h-.021c-.129.007-.256.013-.386.017h0c-.035,0-.287,0-.705-.037a.114.114,0,0,0-.035,0,17.794,17.794,0,0,1-4.221-.823v.875H351.111v-25.12a14,14,0,1,0-14,14h11.552v11.123h-11.55a25.118,25.118,0,1,1,24.59-30.249h0a25.123,25.123,0,0,1,.526,5.13v9.595a4.4,4.4,0,1,0,2.444-3.939V317.943a15.541,15.541,0,0,1,17.479,15.4Z" transform="translate(-312 -298.63)" fill="#fc3d21"/>
+      <path id="Path_2" data-name="Path 2" d="M521.61,482.95v2.78c-.02-.37-.02-.7-.02-1.07C521.59,484.08,521.59,483.51,521.61,482.95Z" transform="translate(-482.49 -450.121)" fill="#fc3d21"/>
+      <path id="Path_3" data-name="Path 3" d="M521.61,482.95v2.78c-.02-.37-.02-.7-.02-1.07C521.59,484.08,521.59,483.51,521.61,482.95Z" transform="translate(-482.49 -450.121)" fill="#fff"/>
+    </g>
+    <text id="AFRICA_ORIENT" data-name="AFRICA ORIENT" transform="translate(244.142 369.34)" font-size="12" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">AFRICA ORIENT</tspan></text>
+    <path id="Path_4" data-name="Path 4" d="M500.01,482.95v2.78c-.02-.37-.02-.7-.02-1.07C499.99,484.08,499.99,483.51,500.01,482.95Z" transform="translate(-208.179 -142.812)" fill="#fc3d21"/>
+  </g>
+</svg>
